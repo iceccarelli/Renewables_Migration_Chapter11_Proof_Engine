@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+build/
+dist/
+*.egg-info/
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/
+
+# Pytest
+.pytest_cache/
+
+# Plots
+plots/*.png
+
+# IDEs
+.idea/
+.vscode/
+
+# Operating System
+.DS_Store
+thumbs.db

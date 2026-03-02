@@ -1,0 +1,25 @@
+metric,year,value,unit,source
+renewable_share,2010,0.172,percent,Appendix A.1
+renewable_share,2018,0.392,percent,Appendix A.1
+renewable_share,2023,0.591,percent,Appendix A.1
+renewable_share,2025,0.638,percent,Appendix A.1
+renewable_share,2030,0.827,percent,Appendix A.1
+protocol_multiplier_phi_mcp,2010,0.00,dimensionless,Appendix A.1
+protocol_multiplier_phi_mcp,2018,0.00,dimensionless,Appendix A.1
+protocol_multiplier_phi_mcp,2023,0.15,dimensionless,Appendix A.1
+protocol_multiplier_phi_mcp,2025,0.45,dimensionless,Appendix A.1
+protocol_multiplier_phi_mcp,2030,1.25,dimensionless,Appendix A.1
+effective_stability_index,2010,95.0,index,Appendix A.1
+effective_stability_index,2018,82.0,index,Appendix A.1
+effective_stability_index,2023,65.0,index,Appendix A.1
+effective_stability_index,2025,58.0,index,Appendix A.1
+effective_stability_index,2030,92.0,index,Appendix A.1
+hvdc_physical_capacity,2030,16,GW,Appendix A.3
+hvdc_protocol_capacity,2030,22,GW,Appendix A.3
+hvdc_capacity_unlock_min,2030,0.30,percent,Appendix A.3
+hvdc_capacity_unlock_max,2030,0.40,percent,Appendix A.3
+protocol_offset_copper,2030,0.35,percent,Appendix A.4
+protocol_offset_silicon,2030,0.45,percent,Appendix A.4
+industrial_jobs_recovered,2030,64000,jobs,Appendix A.5
+protocol_resilience_rmcp,2030,0.45,percent,Figure A.2
+legacy_physical_storage_resilience,2030,0.01,percent,Figure A.2
