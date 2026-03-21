@@ -2,7 +2,7 @@
 
 **Chapter 11 Verification System: From Erratic Heart to Sovereign Global Command**
 
-This repository delivers the definitive computational companion to Chapter 11 of Vincenzo Grimaldi’s *The Renewables Migration* (March 21, 2026). It operationalizes the book’s culminating thesis: that Germany’s €1.45 trillion Energiewende receipt — once viewed as a political and engineering liability — becomes the precise substrate for sovereign AI-driven grid dominance. At its core is the Model Context Protocol (MCP), implemented here as the executable “TCP/IP for physics” that finally allows the sun to migrate intelligently rather than chaotically.
+This repository serves as the definitive computational companion to Chapter 11 of Vincenzo Grimaldi’s *The Renewables Migration* (March 21, 2026). It operationalizes the book’s culminating thesis: that Germany’s €1.45 trillion Energiewende receipt — once viewed as a political and engineering liability — becomes the precise substrate for sovereign AI-driven grid dominance. At its core is the Model Context Protocol (MCP), implemented here as the executable “TCP/IP for physics” that finally allows the sun to migrate intelligently rather than chaotically.
 
 The 03:17 narrative thread that opens in Chapter 1 (the night the sun almost stopped) reaches its resolution in Chapter 11’s control room at first light. Every prior chapter’s forensic evidence — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, the solar subsidies, the Dunkelflaute voids, the hydrogen mirage, the de-industrialization pulse, and the human receipt — is now revalued through MCP-enabled agentic negotiation. This proof engine verifies those transitions mathematically, simulates the sovereign outcomes, and provides production-ready code for any developer or integrator who wishes to replicate or extend the architecture.
 
@@ -34,9 +34,9 @@ The following diagram maps the complete travel path through the proof engine, mi
 graph TD
     A[Introduction & Scmd Definition<br/>€1.45T Receipt] 
     --> B[Ch 1: 03:17 Crisis<br/>Inertia Gap & ΦMCP Damping]
-    B --> C[Ch 2–4: U-Turn + Copper Arteries<br/>PDAR & Dynamic Line Rating]
-    C --> D[Ch 5–7: Solar, Dunkelflaute, Hydrogen<br/>Negative-Price Arbitrage & Virtual Storage]
-    D --> E[Ch 8–9: Industrial & Human Receipt<br/>Factories & Homes as Intelligent Nodes]
+    B --> C[Ch 2-4: U-Turn + Copper Arteries<br/>PDAR & Dynamic Line Rating]
+    C --> D[Ch 5-7: Solar Dunkelflaute Hydrogen<br/>Negative-Price Arbitrage & Virtual Storage]
+    D --> E[Ch 8-9: Industrial & Human Receipt<br/>Factories & Homes as Intelligent Nodes]
     E --> F[Ch 10: Machine in the Mirror<br/>Final Tally & Protocol Pivot]
     F --> G[Ch 11: Migration of the Sun<br/>Erratic Heart → Stable Engine]
     
@@ -44,14 +44,14 @@ graph TD
     H --> I[Entropy & Maxwell’s Demon Simulator]
     I --> J[Carbon Command Equation Prover]
     J --> K[Stability Threshold Projector]
-    K --> L[Sovereign Command Manifold (3D)]
-    L --> M[SSP/SDP Revenue Horizon 2045]
+    K --> L[Sovereign Command Manifold 3D]
+    L --> M[SSP SDP Revenue Horizon 2045]
     
-    subgraph "Production Integrator Tools"
-    N[Automated Tests] 
-    O[Streamlit Dashboard] 
-    P[Jupyter Repro Notebooks] 
-    Q[Figure Export & Data API]
+    subgraph Production Integrator Tools
+        N[Automated Tests]
+        O[Streamlit Dashboard]
+        P[Jupyter Repro Notebooks]
+        Q[Figure Export & Data API]
     end
     
     style G fill:#1e3a8a,stroke:#60a5fa
