@@ -6,9 +6,6 @@
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue)](https://www.python.org/)
 ---
 
-The 03:17 narrative thread that opens in Chapter 1 (the night the sun almost stopped) reaches its resolution in Chapter 11’s control room at first light. Every prior chapter’s forensic evidence — the €700 billion U-Turn, the €580 billion crowdfunded empire, the €320 billion copper arteries, the solar subsidies, the Dunkelflaute voids, the hydrogen mirage, the de-industrialization pulse, and the human receipt — is now revalued through MCP-enabled agentic negotiation. This production-ready codebase delivers verifiable entropy and carbon-command simulations, the final Scmd manifold evolution, and the 2045 sovereign horizon for developers and system integrators to embed into live energy architectures.
-
-
 ---
 ## Quick Start — Verify Sovereign Command in < 60 Seconds
 ```bash
@@ -118,9 +115,4 @@ Renewables_Migration_Chapter11_Proof_Engine/
 | **Full Equation Library** | 11.4 | Interactive verification of every technical claim |
 | **Book Data Export** | 11.4 | One-click CSV matching Appendix A |
 ---
-## Technical Integration Philosophy
-The codebase mirrors the same engineering standards the book demands of the grid: **modular, sovereign, and verifiable**. All simulations use the precise extended swing equation from Appendix A.9, with ΦMCP damping. No external API calls — full data sovereignty by design. Ready for live MCP connectors (Anthropic/Linux Foundation standard) to replace synthetic data with real inverter telemetry.
----
-**Part of The Renewables Migration Technical Ecosystem**
-From the €1.45 trillion receipt to sovereign protocol command.
-```
+
